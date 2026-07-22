@@ -1,0 +1,13 @@
+{
+  "name": "灵动镜康复训练",
+  "short_name": "灵动镜",
+  "description": "ESP32-C5 与 ESP32-S3 局域网直连的居家康复训练终端",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f4f8fc",
+  "theme_color": "#2959b7",
+  "lang": "zh-CN",
+  "icons": [
+    { "src": "/icons/lingdong.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
