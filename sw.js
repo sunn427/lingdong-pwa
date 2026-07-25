@@ -1,4 +1,4 @@
-const SHELL_CACHE = 'lingdong-pwa-shell-v7'
+const SHELL_CACHE = 'lingdong-pwa-shell-v8'
 const MODEL_CACHE = 'lingdong-pwa-models-v4'
 const BASE_PATH = new URL(self.registration.scope).pathname.replace(/\/$/, '')
 const appPath = (path) => `${BASE_PATH}${path}`
