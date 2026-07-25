@@ -1,5 +1,5 @@
-const SHELL_CACHE = 'lingdong-pwa-shell-v5'
-const MODEL_CACHE = 'lingdong-pwa-models-v3'
+const SHELL_CACHE = 'lingdong-pwa-shell-v6'
+const MODEL_CACHE = 'lingdong-pwa-models-v4'
 const BASE_PATH = new URL(self.registration.scope).pathname.replace(/\/$/, '')
 const appPath = (path) => `${BASE_PATH}${path}`
 const APP_SHELL = ['/', '/index.html', '/manifest.webmanifest', '/icons/lingdong.svg'].map(appPath)
